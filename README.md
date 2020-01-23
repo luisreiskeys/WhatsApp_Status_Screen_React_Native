@@ -1,6 +1,6 @@
 # WhatsApp_Status_Screen_React_Native
 
-![](/src/screen.gif)
+![](/src/screen.gif | width=100)
 
 Fala pessoal, iniciando aqui a GoStack resolvi recriar a tela de status do WhatsApp usando React-Native. 
 A parte trabalhosa foi criar esse indicador de status que fica por volta do avatar de cada usuário. 
